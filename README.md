@@ -53,6 +53,6 @@ All T1 bar the FCU, making this little tool affordable for all levels.
 
 It is best used along with a larger surface miner, the Wamp is used to clear any remaining ore left by the larger miner.
 
-The pilot simply connects to the larger ships storage and collects the remaining ore with there min9ng backpack, the pilot can offload the ore to the station.
+The pilot simply connects to the larger ships storage and collects the remaining ore with there mining backpack, the pilot can offload the ore to the station.
 
 Can also be used as a disposable outside SZ, however i would recomend using a dedicated ship for crater mining.
