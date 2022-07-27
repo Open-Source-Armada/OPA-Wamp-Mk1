@@ -6,8 +6,11 @@ Small T1 excavator with 2 mining lasers, perfect moon base companion for constru
 
 
 227060.984 kg
+
 2 fixed mining lasers
+
 4 T1 fuel chambers, 10 T1 generators, 8 T1 enhancers, for 1 hour of fuel at max gens.
+
 Advanced FCU, full mobility in all directions.
 
 //Cost//
